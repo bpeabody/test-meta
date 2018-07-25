@@ -1,3 +1,6 @@
 [submodule "foo/bar"]
 	path = foo/bar
 	url = https://github.com/bpeabody/test-sub.git
+[submodule "fiz/bam"]
+	path = fiz/bam
+	url = https://github.com/bpeabody/test-sub.git
